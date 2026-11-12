@@ -2,8 +2,8 @@ var jpdbBaseURL = "https://api.login2explore.com:5577";
 var jpdbIRL = "/api/irl";
 var jpdbIML = "/api/iml";
 var connToken = "   ";
-var dbName = "Student";
-var relName = "Student-Rel";
+var dbName = "SCHOOL-DB";
+var relName = "STUDENT-TABLE";
 
 var dataFields = ["fullName", "stuClass", "birthDate", "address", "enrollDate"];
 
