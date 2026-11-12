@@ -1,7 +1,7 @@
 var jpdbBaseURL = "https://api.login2explore.com:5577";
 var jpdbIRL = "/api/irl";
 var jpdbIML = "/api/iml";
-var connToken = "90936861|-31948784479254024|90932362";
+var connToken = "   ";
 var dbName = "Student";
 var relName = "Student-Rel";
 
